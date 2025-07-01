@@ -23,7 +23,7 @@ Aqui você encontrará:
 
 ## 🛠️ Tecnologias utilizadas
 
-- [Python 3.x](https://www.python.org/)
+- [Python 3.9](https://www.python.org/)
 - Editor de código: VSCode 
 
 ## 🤝 Contribuições
